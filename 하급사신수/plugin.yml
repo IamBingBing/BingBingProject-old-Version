@@ -1,0 +1,5 @@
+name: BingBingRPG
+author: bingbing
+main: bingbing\RPG
+version: "Beta_1"
+api: [1.0.0 , 2.0.0 , 3.0.0 , 3.0.1 , 4.0.0]

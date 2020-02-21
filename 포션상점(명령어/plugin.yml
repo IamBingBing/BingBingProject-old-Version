@@ -1,0 +1,9 @@
+﻿name: BingBingPotionShop
+author: bingbing
+version: "1.0"
+api: [1.0.0, 2.0.0, 3.0.0, 3.0.1]
+main: bingbing\potion
+
+commands:
+ 포션구매:
+  default: true

@@ -1,0 +1,8 @@
+name: BingBingsleep
+author: bingbing
+main: bingbing\main
+version: "1.0.0"
+api: 
+- 3.0.0
+- 3.0.1
+- 4.0.0

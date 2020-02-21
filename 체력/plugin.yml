@@ -1,0 +1,9 @@
+name: BingBingHealth
+version: "1.0.0"
+api: [3.0.1]
+main: BingBing\main
+author: BingBing
+
+commands:
+ 체력레벨:
+  default: true

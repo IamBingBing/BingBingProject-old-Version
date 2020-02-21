@@ -1,0 +1,9 @@
+﻿name: BingBingHOTtime
+author: "bingbing"
+version: "1.0.0_BETA"
+api: [1.0.0, 2.0.0, 3.0.0-ALPHA10, 3.0.1]
+main: bingbing\HOT
+
+commands:
+ hot:
+  default: OP
