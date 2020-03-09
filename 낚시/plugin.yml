@@ -1,0 +1,5 @@
+name: BingBingFISH
+main: bingbing\fishing
+version: 3.4-alpha
+author: bingbing
+api: [3.0.0-ALPHA10]
